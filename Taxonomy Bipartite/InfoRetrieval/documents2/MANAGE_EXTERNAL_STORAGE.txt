@@ -1,0 +1,1 @@
+Allows an application a broad access to external storage in scoped storage.

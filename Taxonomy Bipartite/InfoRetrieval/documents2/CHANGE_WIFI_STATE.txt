@@ -1,0 +1,1 @@
+Allows applications to change Wi-Fi connectivity state.

@@ -1,0 +1,1 @@
+Required for apps targeting Build.VERSION_CODES.Q that want to use notification full screen intents.

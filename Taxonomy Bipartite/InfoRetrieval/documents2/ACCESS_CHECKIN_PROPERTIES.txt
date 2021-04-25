@@ -1,0 +1,1 @@
+Allows read/write access to the "properties" table in the checkin database, to change values that get uploaded.

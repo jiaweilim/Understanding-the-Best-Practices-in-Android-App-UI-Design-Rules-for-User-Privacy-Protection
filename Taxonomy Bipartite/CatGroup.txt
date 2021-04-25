@@ -1,0 +1,15 @@
+Battery charging
+Device Info
+Network
+Running state
+Notification
+Contact list
+Calendar
+SMS
+Storage
+Account user profile
+Camera
+Location
+Microphone
+Accelerometer gyroscope magnetometer
+Proximity sensor

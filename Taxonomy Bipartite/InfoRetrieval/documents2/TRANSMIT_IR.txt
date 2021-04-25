@@ -1,0 +1,1 @@
+Allows using the device's IR transmitter, if available.

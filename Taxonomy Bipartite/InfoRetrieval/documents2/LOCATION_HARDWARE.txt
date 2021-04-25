@@ -1,0 +1,1 @@
+Allows an application to use location features in hardware, such as the geofencing api.

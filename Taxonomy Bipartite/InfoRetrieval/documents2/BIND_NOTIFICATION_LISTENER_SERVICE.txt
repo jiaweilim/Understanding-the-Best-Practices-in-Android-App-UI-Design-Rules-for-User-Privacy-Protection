@@ -1,0 +1,1 @@
+Must be required by an NotificationListenerService, to ensure that only the system can bind to it.

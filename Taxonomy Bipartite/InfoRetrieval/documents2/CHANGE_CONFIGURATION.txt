@@ -1,0 +1,1 @@
+Allows an application to modify the current configuration, such as locale.

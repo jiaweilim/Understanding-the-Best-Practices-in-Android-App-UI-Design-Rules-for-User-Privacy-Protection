@@ -1,0 +1,1 @@
+Allows a companion app to run in the background.

@@ -1,0 +1,1 @@
+This constant was deprecated in API level 15. No longer useful, see PackageManager.addPackageToPreferred(String) for details.

@@ -1,0 +1,1 @@
+Allows an application to modify and remove existing voicemails in the system.

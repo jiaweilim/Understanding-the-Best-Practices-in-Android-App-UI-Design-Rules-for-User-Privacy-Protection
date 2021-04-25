@@ -1,0 +1,1 @@
+Allows applications to set the system time directly.

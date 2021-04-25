@@ -1,0 +1,54 @@
+A SG Bus Arrival App for both SBS and SMRT bus arrival timing that Singapore Truly Deserves!
+
+SG BusLeh won LTA's Land Transport Excellence Awards 2016 - Most Innovative Solution!
+
+We now also provide SMRT train arrival timing as well as NTU & NUS internal shuttle bus timing!
+
+-------------
+
+By downloading or using the app, the terms stated at the bottom of this description will automatically apply to you.
+
+-------------
+Top Features
+
+1. The only Bus Arrival Timing App that tells you where the bus is!
+Simply tap on a bus arrival timing to view the location of the bus on a map!
+
+2. Check you EZ-Link Card Balance anytime, anywhere!
+Forget looking for an EZ-Link card machine to check balance. You can now check your EZ-Link card balance using the SG BusLeh app!
+
+3. Got seats? No seat? You will know at a glance!
+The only SG Bus App that presents SBS and SMRT bus capacity as simple bars!
+
+4. Magical Unified Search
+You can search for anything! These includes bus numbers, postal codes, buildings, road names or even bus-stop ids! Anything would work! No other bus-app comes close.
+
+5. Favourites!!!
+All new Favourites feature - simply long-press on any bus-stop to add to Favourites. If you wish to, you may be your own government and rename bus-stops when adding them to Favourites!
+
+6. Bus Routes!
+Tap on Bus service number to see bus-routes!
+
+7. Don't waste time on a bus app!
+This app is optimized for speed. We have crafted a mechanism to store the latest timing from LTA on our high-speed servers so there's no lag!
+
+8. Now available on Android Wear
+BusLeh is now available on your Android Wear smartwatches! This feature is only available for paid users.
+
+9. Bus Intervals
+BusLeh now shows you the interval between the previous and upcoming bus so that you can better predict if your bus will be crowded by the time it reaches your stop!
+
+10. Notifications!
+Let BusLeh monitor your buses for you so you don't have to. BusLeh will automatically notify you when the bus you want is arriving!
+
+------------
+Note on App Permissions
+
+The app permission system on Android is really broken. As long as we request for any permission within any permission group, Android would display a permission warning for the entire permission group, which can be confusing.
+
+For example, we request for permission to generate custom bitmap. This permission belongs to the same group as SD card permission, leading to Android warning you about SD card access. Please trust us, we are not so bo liao to be interested in your personal data.
+
+------------
+Terms Of Use
+
+By downloading or using the app, the terms here will automatically apply to you – you should make sure therefore that you read them carefully before using the app. We are offering you this app to use for your own personal use without cost, and we are not liable for any injuries, "late for work", "late for exams", "bus don't want to come" or any other form of damages, which can be monetary, emotional or otherwise that may arise from the use of this app. All bus arrival estimates in this app are provided "as-is" by Land Transport Authority, cached on our servers and served to you. We make no guarantee of the accuracy or reliability of bus arrival estimates.

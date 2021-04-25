@@ -1,0 +1,1 @@
+Allows an application to retrieve state dump information from system services.

@@ -1,0 +1,13 @@
+This application is a service of the Singapore Government.
+
+See an interesting animal or plant? Share it with us through the SGBioAtlas app! SGBioAtlas is a citizen-science platform for nature lovers to share their biodiversity sightings and uses crowd-sourced information to map the distribution of flora and fauna across Singapore. It is not only simple to use, it is also a fun way to learn more about the amazing diversity of animals and plants in our City in a Garden. Every sighting you record will contribute to our database of precious local biodiversity.
+
+This app is brought to you by the National Parks Board (NParks) as part of the Community in Nature (CIN) initiative. As the lead agency on nature conservation, NParks has developed an urban biodiversity conservation model, which aims to conserve representative eco-systems in land-scarce Singapore. NParks also monitors and coordinates measures to enhance the presence of biodiversity in our urban landscape.
+
+Find out more about us at www.nparks.gov.sg.
+
+Date released: 16 Apr 2015
+
+For technical issues, please e-mail biome_support@ncodeconsultant.com
+
+For general queries, please e-mail CIN@nparks.gov.sg.

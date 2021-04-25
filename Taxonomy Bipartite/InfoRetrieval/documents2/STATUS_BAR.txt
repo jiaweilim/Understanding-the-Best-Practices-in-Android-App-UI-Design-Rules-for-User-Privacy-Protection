@@ -1,0 +1,1 @@
+Allows an application to open, close, or disable the status bar and its icons.

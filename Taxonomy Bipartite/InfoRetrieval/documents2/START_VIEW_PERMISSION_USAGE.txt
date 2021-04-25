@@ -1,0 +1,1 @@
+Allows the holder to start the permission usage screen for an app.

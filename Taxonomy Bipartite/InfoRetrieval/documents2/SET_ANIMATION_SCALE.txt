@@ -1,0 +1,1 @@
+Modify the global animation scaling factor.

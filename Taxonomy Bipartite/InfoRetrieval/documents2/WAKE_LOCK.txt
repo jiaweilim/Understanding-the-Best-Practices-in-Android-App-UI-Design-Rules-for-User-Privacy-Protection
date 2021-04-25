@@ -1,0 +1,1 @@
+Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming.

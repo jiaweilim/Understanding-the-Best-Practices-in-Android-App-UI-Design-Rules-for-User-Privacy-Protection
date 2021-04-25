@@ -1,0 +1,1 @@
+Allows an application to read the low-level system log files.

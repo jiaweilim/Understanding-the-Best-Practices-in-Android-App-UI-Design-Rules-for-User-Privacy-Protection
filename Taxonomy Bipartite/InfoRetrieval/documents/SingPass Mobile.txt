@@ -1,0 +1,55 @@
+Log in within seconds using your fingerprint or 6-digit passcode.
+
+KEY FEATURES
+
+- View your data from government sources in one place
+
+With the new Myinfo Profile feature, customize the data you want to see. Choose from your passport expiry date, CPF account information, HDB property, and more.
+
+- Say goodbye to long passwords
+
+You don’t have to enter your Singpass ID or password anymore. With QR Login. simply scan or tap the QR code to launch the app, verify and you’re in! You can also launch commonly-used digital services directly from the app with our Login Shortcut feature.
+
+- Transact securely on-the-go
+
+Going for a holiday or staying overseas? Enjoy greater mobility when you use the new Singpass app. No more waiting for SMS OTP, or carrying a token around!
+
+SET UP IN 3 EASY STEPS
+
+To set up, all you need is a smartphone, an internet connection, and a registered Singpass account.
+
+- Step 1: Install Singpass app by clicking the button above.
+
+- Step 2: Complete a one-time set up.
+
+- Step 3: You’re all set. Log in to government digital services using your fingerprint or 6-digit passcode – it’s that simple!
+
+FEEDBACK
+
+We want to hear from you! For any feedback or questions, please email us at support@singpass.gov.sg.
+
+Note: Singpass app can only be installed on one device at a time.
+
+This application is brought to you by the Government Technology Agency of Singapore.
+
+APP PERMISSIONS
+
+In order to provide the service, the app requires certain permissions.
+
+[Mandatory]
+“Phone”: This permission is used to obtain your device’s IMEI, among other parameters, to secure the app and generate a unique ID to tag the app to your device.
+
+[Mandatory]
+“Storage”, may also be known as “Photos, media and files”: This permission allows the app to obtain additional parameters from the device storage hardware as one of the factors in deriving the unique ID for enhanced security. A file is also created on your storage to save your troubleshooting ID when logs are sent to our Helpdesk.
+
+The following requirements are recommended for an optimised user experience:
+
+- Minimum Android version 6
+- At least 100MB storage space
+- Google Play services installed
+
+COMMON ISSUES
+
+If you’re encountering a “settings altered” prompt, it may be due to a rooted device. Certain apps that provide fake GPS or remote administration functions may also cause the prompt to be shown. While the team is continuously assessing these apps, users may choose to uninstall such apps to use Singpass app.
+
+If you’re encountering a “request expired” prompt, try setting your device to use “Automatic Date & Time” or “Automatic Timezone”. The exact name may differ according to your device, and can be found in your device settings.

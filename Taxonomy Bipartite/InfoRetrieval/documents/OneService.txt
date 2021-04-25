@@ -1,0 +1,13 @@
+This application is a service of the Singapore Government.
+
+The "OneService" mobile application is part of the Government’s on-going efforts to provide a convenient channel for reporting municipal issues within Singapore. The application provides for common categories of municipal issues and more features will be offered under subsequent updates.
+
+Date of Official Launch: 25 January 2015
+
+To provide feedback on the application, please e-mail us at mso_appenquiry@mnd.gov.sg
+
+By downloading, you agree to the Terms of Use and Privacy Policy of the OneService Mobile App.
+URL for Terms of Use:
+https://www.oneservice.sg/index/terms
+URL for Privacy Policy:
+https://www.oneservice.sg/index/privacy

@@ -1,0 +1,1 @@
+Allows applications to disable the keyguard if it is not secure.

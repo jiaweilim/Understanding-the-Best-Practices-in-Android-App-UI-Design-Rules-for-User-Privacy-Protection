@@ -1,0 +1,1 @@
+Allows an application to set the maximum number of (not needed) application processes that can be running.

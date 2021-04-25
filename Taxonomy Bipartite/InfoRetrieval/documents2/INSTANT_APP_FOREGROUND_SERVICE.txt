@@ -1,0 +1,1 @@
+Allows an instant app to create foreground services.

@@ -1,0 +1,11 @@
+SGSecure is a national movement to sensitise, train and mobilise Singaporeans to play a part to prevent and deal with a terrorist attack..
+
+Use the SGSecure app to:
+- Receive important broadcast messages from the authorities on the latest situation in the event of major emergencies
+- Seek assistance from the authorities should a major situation happen in your vicinity
+- Send videos, photos and messages to the authorities to provide information on a situation which you have witnessed
+- Be alerted to any cardiac arrest or minor fire case in your vicinity
+- Locate the nearest AED in your vicinity
+- Be updated on security-related MFA Travel Advisories
+
+Please note that continued use of GPS running in the background can lead to decreased battery life of your mobile device.

@@ -1,0 +1,1 @@
+Must be required by a HostApduService or OffHostApduService to ensure that only the system can bind to it.

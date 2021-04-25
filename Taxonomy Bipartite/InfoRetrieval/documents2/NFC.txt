@@ -1,0 +1,1 @@
+Allows applications to perform I/O operations over NFC.

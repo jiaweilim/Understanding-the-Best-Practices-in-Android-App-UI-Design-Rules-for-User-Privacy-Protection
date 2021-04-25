@@ -1,0 +1,1 @@
+Allows applications to call into AccountAuthenticators.

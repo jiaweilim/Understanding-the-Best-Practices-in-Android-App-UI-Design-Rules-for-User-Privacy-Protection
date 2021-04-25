@@ -1,0 +1,1 @@
+Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call.

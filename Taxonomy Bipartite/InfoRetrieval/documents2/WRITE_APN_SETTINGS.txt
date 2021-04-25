@@ -1,0 +1,1 @@
+Allows applications to write the apn settings and read sensitive fields of an existing apn settings like user and password.

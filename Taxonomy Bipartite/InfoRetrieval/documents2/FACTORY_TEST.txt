@@ -1,0 +1,1 @@
+Run as a manufacturer test application, running as the root user.

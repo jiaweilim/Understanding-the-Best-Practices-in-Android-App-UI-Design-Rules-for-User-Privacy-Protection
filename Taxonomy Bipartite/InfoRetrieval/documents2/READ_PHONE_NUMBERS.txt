@@ -1,0 +1,1 @@
+Allows read access to the device's phone number(s).

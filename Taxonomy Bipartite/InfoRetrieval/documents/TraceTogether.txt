@@ -1,0 +1,11 @@
+TraceTogether supports Singapore’s efforts to fight the spread of COVID-19 through community-driven contact tracing.
+
+TraceTogether notifies you quickly if you’ve been exposed to COVID-19 through close contact with other TraceTogether users. The app allows the Ministry of Health (MOH) to give you timely care and guidance, protecting you and those around you.
+
+The app uses Bluetooth, and your Bluetooth data is stored securely on your phone. It’ll be shared with MOH if you test positive for COVID-19, for the purpose of contact tracing. Also, all Bluetooth data stored on your phone is automatically deleted after 25 days.
+
+TraceTogether helps us ensure that we don’t spread the virus to our loved ones unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together.
+
+App functionality will cease once the outbreak ends.
+
+TraceTogether is designed for use by people in Singapore. To register, you will need a valid NRIC, FIN, or a valid document of your current stay in Singapore.

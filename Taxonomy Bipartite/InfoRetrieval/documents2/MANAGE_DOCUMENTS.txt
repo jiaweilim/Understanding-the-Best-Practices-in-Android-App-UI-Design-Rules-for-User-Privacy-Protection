@@ -1,0 +1,1 @@
+Allows an application to manage access to documents, usually as part of a document picker.

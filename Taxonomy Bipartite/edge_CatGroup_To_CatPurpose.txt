@@ -1,0 +1,71 @@
+Battery charging,Battery-based event trigger
+Battery charging,Power management
+Battery charging,Data collection for analytics
+Device Info,Interface customization
+Device Info,Data collection for ad
+Device Info,Data collection for analytics
+Network,Network switch notification
+Network,Network optimization
+Network,Geo localization
+Network,Data collection for ad
+Network,Data collection for analytics
+Running state,Cross-app communication
+Running state,Task management
+Notification,Interface customization
+Notification,Interruption management
+Contact list,Backup and Synchronization
+Contact list,Contact management
+Contact list,Blacklist
+Contact list,Call and SMS
+Contact list,Contact-based customization
+Contact list,Email
+Contact list,Find friends
+Contact list,Record
+Contact list,Fake calls and SMS
+Calendar,Context prediction
+Calendar,Schedule
+Calendar,Alarm
+SMS,Send messages
+SMS,Organize messages
+SMS,Extract message content
+SMS,Block messages
+SMS,Schedule messages
+SMS,Backup sync messages
+Storage,Access photo album
+Storage,Manage downloaded files
+Storage,App data persistent storage
+Account user profile,Third-party login
+Account user profile,Data collection for analytics
+Account user profile,Data collection for ad
+Camera,Flashlight
+Camera,Video streaming
+Camera,Code scanning
+Camera,Document scanning
+Camera,Augment reality
+Camera,Text recognition
+Camera,Photo taking
+Location,Nearby Search
+Location,Location-based Customization
+Location,Query Transportation Information
+Location,Recording
+Location,Map and Navigation
+Location,Geosocial Networking
+Location,Geotagging
+Location,Location Spoofing
+Location,Alert and Remind
+Location,Location-based game
+Location,Reverse geocoding
+Location,Data collection for analytics
+Location,Data collection for ad
+Microphone,Voice Authentication
+Microphone,Audio streaming
+Microphone,Voice control
+Microphone,Speech recognition
+Microphone,Audio recording
+Microphone,Acoustic event detection
+Microphone,Acoustic communication
+Microphone,Music
+Accelerometer gyroscope magnetometer,Step-counter
+Accelerometer gyroscope magnetometer,Game input controller
+Accelerometer gyroscope magnetometer,Map Navigation Compass
+Proximity sensor,Speaker display activation

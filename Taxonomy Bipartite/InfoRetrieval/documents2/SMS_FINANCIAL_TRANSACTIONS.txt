@@ -1,0 +1,1 @@
+Allows financial apps to read filtered sms messages.

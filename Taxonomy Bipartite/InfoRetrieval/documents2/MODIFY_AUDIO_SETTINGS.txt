@@ -1,0 +1,1 @@
+Allows an application to modify global audio settings.

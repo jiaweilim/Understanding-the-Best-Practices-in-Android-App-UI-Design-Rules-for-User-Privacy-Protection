@@ -1,0 +1,42 @@
+ActiveSG
+Authenticator
+Carousell
+CustomsSG
+Dementia Friends
+Discord
+eApptICA
+FairPrice
+FakeGPS Route
+HealthHub
+Healthy 365
+Instagram
+LifeSG
+LinkedIn
+Mcdonalds
+myENV
+myResponder
+MySingtel
+MySkillsFuture
+MyTransport
+NLB Mobile
+OneMap
+OneService
+OpenVPN Connect
+Parkingsg
+PoliceSG
+QR & Barcode Scanner
+Quora
+Reddit
+SG BusLeh
+SGBioAtlas
+SGSecure
+SGWorkPass
+SingPass Mobile
+SingStat
+Slack
+Telegram
+TraceTogether
+uWave
+WeChat
+WhatsApp
+YQueue

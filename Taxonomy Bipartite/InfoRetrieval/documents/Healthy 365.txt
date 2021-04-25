@@ -1,0 +1,27 @@
+Healthy 365 is a mobile application by the Health Promotion Board (HPB) Singapore which aims to encourage users to adopt a healthier lifestyle. Through the use of gamification and rewards, users are encouraged to sign up for in-app challenges and health programmes to earn Healthpoints. The app seamlessly pairs with fitness tracking devices to help users log their daily steps count and amount of time spent on active exercises. Users can also scan QR codes via the app to earn Healthpoints when they purchase healthier meals, drinks and groceries from participating partners.
+
+Key Features:
+- Fitness journey at a glance featuring user's fitness and rewards information
+- Health challenges, including the National Steps Challenge and Eat, Drink, Shop Healthy Challenge, for users to sign up to convert their healthier actions into rewards
+- Events listing featuring exercise classes that users can book via the app
+- Healthpoints redemption that includes a catalogue of healthy lifestyle rewards for users to choose from
+
+Minimum Mobile Phone OS Requirements:
+- Android Ver. 6
+- iOS Ver. 10
+
+Supported HPB-Issued Fitness Trackers:
+- AxtroFit
+- AxtroFit 2
+- Careeach HR
+- Glide HR
+- Tempo 2 HR
+- Tempo 3C HR
+
+Supported 3rd Party Fitness Apps:
+- Actxa®
+- Apple Health
+- Fitbit
+- Garmin Connect ™
+- Polar Flow
+- Samsung Health

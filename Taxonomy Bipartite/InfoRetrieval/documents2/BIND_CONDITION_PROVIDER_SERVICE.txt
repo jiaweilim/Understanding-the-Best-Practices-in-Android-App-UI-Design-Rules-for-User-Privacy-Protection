@@ -1,0 +1,1 @@
+Must be required by a ConditionProviderService, to ensure that only the system can bind to it.

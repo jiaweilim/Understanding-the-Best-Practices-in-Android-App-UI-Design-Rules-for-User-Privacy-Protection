@@ -1,0 +1,1 @@
+Allows a calling application which manages it own calls through the self-managed ConnectionService APIs.

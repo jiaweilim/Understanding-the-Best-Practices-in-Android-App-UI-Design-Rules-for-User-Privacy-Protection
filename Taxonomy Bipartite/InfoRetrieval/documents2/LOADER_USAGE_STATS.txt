@@ -1,0 +1,1 @@
+Allows a data loader to read a package's access logs.

@@ -1,0 +1,1 @@
+Allows an application to write (but not read) the user's call log data.

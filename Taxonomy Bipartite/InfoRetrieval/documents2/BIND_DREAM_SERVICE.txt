@@ -1,0 +1,1 @@
+Must be required by an DreamService, to ensure that only the system can bind to it.

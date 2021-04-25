@@ -1,0 +1,1 @@
+Allows an application to tell the AppWidget service which application can access AppWidget's data.

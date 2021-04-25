@@ -1,0 +1,1 @@
+Allows an application to use SIP service.

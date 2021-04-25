@@ -1,0 +1,1 @@
+This constant was deprecated in API level 23. Use BIND_CARRIER_SERVICES instead

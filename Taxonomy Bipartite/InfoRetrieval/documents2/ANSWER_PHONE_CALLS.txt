@@ -1,0 +1,1 @@
+Allows the app to answer an incoming phone call.

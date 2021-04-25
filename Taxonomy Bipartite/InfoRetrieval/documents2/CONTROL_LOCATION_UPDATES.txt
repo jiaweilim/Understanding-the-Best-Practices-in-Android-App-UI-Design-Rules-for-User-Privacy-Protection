@@ -1,0 +1,1 @@
+Allows enabling/disabling location update notifications from the radio.

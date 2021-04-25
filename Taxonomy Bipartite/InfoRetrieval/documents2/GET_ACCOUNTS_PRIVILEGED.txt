@@ -1,0 +1,1 @@
+Allows access to the list of accounts in the Accounts Service.

@@ -1,0 +1,1 @@
+Allows applications to RW to diagnostic resources.

@@ -1,0 +1,1 @@
+Allows an application to send SMS messages.

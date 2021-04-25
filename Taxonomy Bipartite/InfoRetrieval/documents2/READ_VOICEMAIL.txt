@@ -1,0 +1,1 @@
+Allows an application to read voicemails in the system.

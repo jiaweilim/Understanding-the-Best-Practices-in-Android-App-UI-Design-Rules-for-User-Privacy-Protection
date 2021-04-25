@@ -1,0 +1,63 @@
+Access photo album
+Acoustic communication
+Acoustic event detection
+Alarm
+Alert and Remind
+App data persistent storage
+Audio recording
+Audio streaming
+Augment reality
+Backup and Synchronization
+Backup sync messages
+Battery-based event trigger
+Blacklist
+Block messages
+Call and SMS
+Code scanning
+Contact management
+Contact-based customization
+Context prediction
+Cross-app communication
+Data collection for ad
+Data collection for analytics
+Document scanning
+Email
+Extract message content
+Fake calls and SMS
+Find friends
+Flashlight
+Game input controller
+Geo localization
+Geosocial Networking
+Geotagging
+Interface customization
+Interruption management
+Location Spoofing
+Location-based Customization
+Location-based game
+Manage downloaded files
+Map and Navigation
+Map Navigation Compass
+Music
+Nearby Search
+Network optimization
+Network switch notification
+Organize messages
+Photo taking
+Power management
+Query Transportation Information
+Record
+Recording
+Reverse geocoding
+Schedule messages
+Schedule
+Send messages
+Speaker display activation
+Speech recognition
+Step-counter
+Task management
+Text recognition
+Third-party login
+Video streaming
+Voice Authentication
+Voice control

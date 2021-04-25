@@ -1,0 +1,1 @@
+Allows SystemUI to request third party controls.

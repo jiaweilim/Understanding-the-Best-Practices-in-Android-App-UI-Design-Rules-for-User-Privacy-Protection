@@ -1,0 +1,19 @@
+One-stop access to health records of your family, friends and children. Learn, man-age and improve your health, schedule your appointments, check your personal health records, access your immunisation, screening and lab test results, view your child’s upcoming immunisation schedule and more*!
+
+HealthHub is your personal digital health companion by the Ministry of Health.
+
+Features:
+
+• Appointments: Book, view, reschedule, cancel
+• Medications: Access your prescription records and medication lists
+• Refill: Request for medication refill or renewal of prescription
+• Payments: Pay for your medical bills
+• Admissions (Financial Counselling): View your estimated bill size, change ward class
+• Adult Immunisation: Check your own immunisation records and get immun-ised today against infectious diseases
+• Screening Eligibility: View your eligibility for heavily subsidised screenings
+• Children Health: Track your child’s developmental milestones and vaccination records as well as upcoming immunisation schedule
+• Family Health: View your parents’ medical appointments and medication lists
+• School Health: Get notified of school health assessments and your child’s re-ferral letters
+• Directory Listing: Find doctors, caregivers, 24 hour CHAS clinics easily
+
+* Participating restructured hospitals, polyclinics and specialist outpatient clinics from the public healthcare sector.

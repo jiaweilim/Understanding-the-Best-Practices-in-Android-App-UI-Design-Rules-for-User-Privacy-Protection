@@ -1,0 +1,1 @@
+Allow an application to request that a signal be sent to all persistent processes.

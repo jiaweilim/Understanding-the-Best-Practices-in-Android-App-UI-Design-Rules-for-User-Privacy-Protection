@@ -1,0 +1,1 @@
+Allows applications to enter Wi-Fi Multicast mode.

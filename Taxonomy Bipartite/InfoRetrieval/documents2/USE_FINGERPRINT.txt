@@ -1,0 +1,1 @@
+This constant was deprecated in API level 28. Applications should request USE_BIOMETRIC instead

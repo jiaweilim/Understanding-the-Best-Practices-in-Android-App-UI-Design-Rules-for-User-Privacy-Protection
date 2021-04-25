@@ -1,0 +1,1 @@
+Allows an app to use device supported biometric modalities.

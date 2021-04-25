@@ -1,0 +1,1 @@
+Allows applications to open network sockets.

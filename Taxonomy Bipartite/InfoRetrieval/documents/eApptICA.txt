@@ -1,0 +1,12 @@
+This application is a service of Singapore Government.
+
+eAppt@ICA is the latest initiative from the Immigration & Checkpoints Authority (ICA), which allows members of public to book an appointment with ICA to complete their application processes as well as to change or cancel appointments. With eAppt@ICA, everyone will have the following services at their fingertips:
+
+1) Book appointments* with all 3 Services Centres of ICA.
+2) View existing appointments* made with ICA at 'My Appointment' tab.
+3) Locate SingPost outlets for alternate site collection of selected ICA documents and passes.
+4) Links to other Home Team Departments' homepage.
+
+Note:
+-*Selected services may require you to log in with your SingPass ID before booking an appointment
+- For any enquiries, please email us at ICA_Feedback@ica.gov.sg

@@ -1,0 +1,15 @@
+Calculate parking fees automatically
+Key in your vehicle number, select the car park and indicate your estimated parking duration. Your charges will be automatically calculated (free parking timings, whole-day parking, night parking are all included).
+
+Pay for parking digitally
+Pay using your credit or debit card and start parking.
+
+Track and extend your parking session remotely
+Receive notifications when your parking session is expiring or has ended. Extend your parking session without having to return to your vehicle.
+
+End your parking session early
+End your parking session if you're back at your vehicle early. A refund based on the actual parked duration will be given.
+
+Known Issues:
+* Confirmation screen gets partially cut-off on the HTC U11 and HTC 10 because of HTC Boost+ app optimisation. Turn off the Boost+ app optimisation for the app and it will work.
+* Delayed notifications on China brand phones like Xiaomi, Huawei, Oppo. This is due to their aggressive battery optimisation. Add the app to the Protected Apps list to solve the delayed notifications issue.

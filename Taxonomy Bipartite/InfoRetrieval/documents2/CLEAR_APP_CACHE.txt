@@ -1,0 +1,1 @@
+Allows an application to clear the caches of all installed applications on the device.

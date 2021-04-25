@@ -1,0 +1,1 @@
+Allows applications to receive NFC preferred payment service information.

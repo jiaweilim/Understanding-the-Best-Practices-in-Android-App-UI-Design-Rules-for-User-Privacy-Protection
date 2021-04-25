@@ -1,0 +1,1 @@
+This permission can be used on content providers to allow the global search system to access their data.

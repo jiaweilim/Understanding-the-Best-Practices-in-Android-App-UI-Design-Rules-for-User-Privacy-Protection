@@ -1,0 +1,1 @@
+Allows modification of the telephony state - power on, mmi, etc.

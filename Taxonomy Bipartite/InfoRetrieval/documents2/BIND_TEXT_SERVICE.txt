@@ -1,0 +1,1 @@
+Must be required by a TextService (e.g. SpellCheckerService) to ensure that only the system can bind to it.

@@ -1,0 +1,6 @@
+A must have app for all employers, foreign employees, agents, or anyone who wishes to verify if a work pass card issued by the Singapore Ministry of Manpower (MOM) is valid. You will need a Singapore mobile number for a one-time registration in order to start using the app.
+ 
+Scan it to check it
+A work pass could be cancelled before it expires as employment status can change over time. When this happens, the pass holder is not allowed to continue working in Singapore. Simply launch the SGWorkPass app to scan the QR code of a work pass card and you can verify its validity instantly.
+ 
+To support the needs of pass holders, the app will be continuously improved with new features and useful information to support their working and living in Singapore.  More details can be found at: https://www.mom.gov.sg/eservices/sgworkpass

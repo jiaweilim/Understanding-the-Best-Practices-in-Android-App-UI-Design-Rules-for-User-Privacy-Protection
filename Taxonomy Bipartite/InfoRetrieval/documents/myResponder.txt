@@ -1,0 +1,19 @@
+Volunteers are notified via the myResponder Mobile App by SCDF’s 995 Ops Centre of any Cardiac Arrest Case within 400 metres of their location. If you are notified, you may choose to respond to the incident and offer your assistance. The Mobile App will highlight nearby AEDs that may be available.
+
+Once you have located the victim suffering from cardiac arrest, you can assist the original caller who alerted SCDF in performing CPR or helping to apply the AED to revive the patient. SCDF’s 995 Ops Centre may also ask responders to guide the ambulance crew by escorting them to the incident site.
+
+If you are 15 years and above and wish to volunteer, be sure to get your SingPass ID and password ready. If you are under 18 years old, please seek parental consent for your participation. Your handphone number is also required for SCDF to get in touch with you during an emergency.
+
+Your response is entirely voluntary, and we only encourage you to respond when you are available and to do so within safe and reasonable means.
+
+myResponder is the latest project by the Singapore Civil Defence Force. The myResponder Mobile App alerts volunteers to nearby Cardiac Arrest Cases to render first aid before ambulance arrival. With myResponder, volunteers will have the following services at their fingertips:
+
+- Geolocation notification of nearby cases
+- Display of nearby incidents using OneMap
+- Display of nearby AEDs using OneMap
+- Geolocation enabled dialling of 995
+- Access to the National AED Registry
+
+The Singapore Civil Defence Force – The Lifesaving Force
+
+This is a mobile application of the Singapore Government.

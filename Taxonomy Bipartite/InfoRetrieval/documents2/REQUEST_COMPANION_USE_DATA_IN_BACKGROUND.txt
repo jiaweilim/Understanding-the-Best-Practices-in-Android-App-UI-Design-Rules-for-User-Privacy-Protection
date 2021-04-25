@@ -1,0 +1,1 @@
+Allows a companion app to use data in the background.

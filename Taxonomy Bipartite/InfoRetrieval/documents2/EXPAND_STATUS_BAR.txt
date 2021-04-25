@@ -1,0 +1,1 @@
+Allows an application to expand or collapse the status bar.

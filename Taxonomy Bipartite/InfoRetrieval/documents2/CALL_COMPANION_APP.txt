@@ -1,0 +1,1 @@
+Allows an app which implements the InCallService API to be eligible to be enabled as a calling companion app.

@@ -1,0 +1,1 @@
+Allows an application to broadcast an Intent to set an alarm for the user.

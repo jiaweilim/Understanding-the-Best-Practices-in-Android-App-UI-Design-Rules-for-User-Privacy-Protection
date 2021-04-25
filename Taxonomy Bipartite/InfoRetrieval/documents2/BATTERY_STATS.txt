@@ -1,0 +1,1 @@
+Allows an application to collect battery statistics Protection level: signature|privileged|development"

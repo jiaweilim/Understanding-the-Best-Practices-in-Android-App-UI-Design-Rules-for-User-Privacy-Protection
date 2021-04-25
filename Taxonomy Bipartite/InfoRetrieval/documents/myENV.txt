@@ -1,0 +1,35 @@
+myENV app will need access to certain features on your phone for the following reasons:
+
+• Location
+Use your phone’s location to provide you with localised weather information.
+
+• Phone
+Let you call NEA hotline conveniently with just one touch.
+
+• Photos/Media/Files
+Allow you to save photographs taken with myENV app in your phone and to attach them when you file a report to NEA.
+
+• Camera
+Access the phone’s camera if you wish to attach a photograph while making a Report to NEA.
+
+• Device ID & Call Information
+Read your phone’s UUID so that you can register and receive push notifications.
+---------------------------------------------------------------------
+Get the latest environmental news updates and information at your finger tips based on your current location with myENV:
+
+• Access real-time information on Singapore’s weather and receive heavy rainfall alerts
+• View latest air quality information
+• Locate dengue clusters and improve dengue situation awareness
+• Search for hawker centres by name or proximity
+• Obtain useful information such as current listings of licensed food caterers and vector control operators
+• Get 3R (Reduce, Reuse and Recycle) tips
+• View latest NEA’s events and happenings
+• Sign up as a volunteer
+• Submit your feedback to NEA on your mobile device and many more!
+
+For a full suite of information and online services, please visit http://www.nea.gov.sg or follow NEAsg on Twitter to receive more updates.
+
+This application is a service of the Singapore Government.
+
+
+Tag: NEACQSD00093

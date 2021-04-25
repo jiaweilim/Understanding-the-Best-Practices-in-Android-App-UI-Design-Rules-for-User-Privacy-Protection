@@ -1,0 +1,1 @@
+Allows an application to broadcast a notification that an application package has been removed.

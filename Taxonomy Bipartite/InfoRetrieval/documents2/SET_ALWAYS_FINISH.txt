@@ -1,0 +1,1 @@
+Allows an application to control whether activities are immediately finished when put in the background.

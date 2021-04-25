@@ -1,0 +1,40 @@
+To enable expert mode after each update, you need to remove the copy from system before you update! If the play store updated the app automatically you need to remove it first, download and re-add it again. Use the export feature to secure your routes and history. Please read our FAQ!
+
+A recent update to Google play services from June 2018 changed a few things-read the FAQ on how to uninstall updates!
+
+We assembled a FAQ list so please read it carefully before emailing us or adding a review. It has all your questions answered. We are not kidding, this is the link to the FAQ, read it before you download the app! If you need help - contact us per email first!
+httpincorporateapps.comfake_gps_route_faq.html
+
+You must share your location with your friends, but the phone is almost dead, can't locate you or the GPS accuracy is bad Or you need to geotag those old pictures and change your GPS on the fly No problem, use our app!
+
+Modes of operation
+- Expert mode
+- No root mode for better spoofing (Android 6.0 and above only for now)
+- Fake GPS Joystick
+- Automated movement around location in a radius
+- Automated altitude
+- History
+- Favorites
+- Settings - change update interval, speed, altitude, accuracy, spoofing and much more
+- Better spoofing
+- Root support for mock location disabled
+- Tasker app integration along with adb shell commands for routes and joystick (more on the FAQ page)
+- Fake GPS Go Routes
+
+If you want to change your location on a browser you will need a VPNa services in connection with our app.
+
+How to use
+1. Move the map and use the centrecrosshair icon to start a single location
+Routes
+2. Long press on the map to add Waypoints for Routing
+3. Use the built in Fake GPS Joystick (fly GPS mode)
+
+Please note that we will not be answering questions within the Review section of the app - if you need support, please read the help url and use the support email for further assistance.
+
+Permissions
+- Internet - to display the map view on the Go
+- WriteRead from SD Card - for the exportimport of favourites and history coming soon
+- Access Coarse and Fine Location - to fake your current location
+- Allow mock locations under Developer settings (Applications).
+
+Translated into english and german.

@@ -1,0 +1,1 @@
+Marker permission for applications that wish to access notification policy.

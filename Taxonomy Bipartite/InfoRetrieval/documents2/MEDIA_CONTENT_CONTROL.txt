@@ -1,0 +1,1 @@
+Allows an application to know what content is playing and control its playback.

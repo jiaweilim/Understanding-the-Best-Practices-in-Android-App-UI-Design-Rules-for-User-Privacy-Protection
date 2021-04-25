@@ -1,0 +1,11 @@
+The new MyTransport.SG mobile app now offers you with more useful travelling information and new features to help you get around Singapore.
+
+New features of MyTransport.SG:
+• Personalisation - Quick access to your frequently used bus service and traffic information.
+• My Notifications - Manage push notifications to receive MRT or Road alerts that interest you.
+• Near You - View information on nearby bus services, MRT stations or traffic information in the vicinity.
+• Multi-modal Journey Planner - Start planning your journey with different transport options based on your travel needs.
+
+This application is a service of Singapore Government.
+
+Disclaimer: Continued use of GPS running in the background may decrease battery life.

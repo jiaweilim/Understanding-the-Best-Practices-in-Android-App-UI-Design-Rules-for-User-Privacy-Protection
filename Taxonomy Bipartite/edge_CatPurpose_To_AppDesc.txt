@@ -1,0 +1,409 @@
+Network switch notification,LinkedIn
+Network switch notification,WhatsApp
+Network switch notification,MyTransport
+Network switch notification,Parkingsg
+Network switch notification,OpenVPN Connect
+Network switch notification,Dementia Friends
+Network switch notification,SingStat
+Network switch notification,Carousell
+Network switch notification,Slack
+Network switch notification,Telegram
+Recording,HealthHub
+Recording,SGBioAtlas
+Recording,WeChat
+Voice control,WeChat
+Voice control,Discord
+Voice control,WhatsApp
+Voice control,myENV
+Schedule messages,HealthHub
+Schedule messages,WhatsApp
+Schedule messages,SGSecure
+Schedule messages,Telegram
+Schedule messages,WeChat
+Schedule messages,Instagram
+Schedule messages,Slack
+Schedule messages,MySingtel
+Schedule messages,LinkedIn
+Interface customization,CustomsSG
+Interface customization,YQueue
+Interface customization,FairPrice
+Interface customization,Discord
+Interface customization,Telegram
+Interface customization,WeChat
+Interface customization,Slack
+Interface customization,SingPass Mobile
+Interface customization,WhatsApp
+Interface customization,SG BusLeh
+Location Spoofing,FakeGPS Route
+Location Spoofing,PoliceSG
+Location Spoofing,myENV
+Location Spoofing,ActiveSG
+Location Spoofing,Mcdonalds
+Location Spoofing,WeChat
+Location Spoofing,OneMap
+Location Spoofing,myResponder
+Location Spoofing,SGSecure
+Location Spoofing,eApptICA
+Geo localization,WeChat
+Geo localization,SGBioAtlas
+Geo localization,MySingtel
+Geo localization,Discord
+Power management,uWave
+Power management,Telegram
+Power management,NLB Mobile
+Power management,MyTransport
+Power management,LifeSG
+Power management,OpenVPN Connect
+Power management,MySingtel
+Power management,Reddit
+Battery-based event trigger,MyTransport
+Battery-based event trigger,SGSecure
+Battery-based event trigger,Dementia Friends
+Battery-based event trigger,Parkingsg
+Battery-based event trigger,MySkillsFuture
+Battery-based event trigger,myENV
+Battery-based event trigger,OneMap
+Battery-based event trigger,LifeSG
+Battery-based event trigger,Slack
+Battery-based event trigger,ActiveSG
+Acoustic event detection,Dementia Friends
+Acoustic event detection,MySkillsFuture
+Acoustic event detection,SGSecure
+Acoustic event detection,LifeSG
+Acoustic event detection,ActiveSG
+Acoustic event detection,myENV
+Acoustic event detection,Healthy 365
+Find friends,Dementia Friends
+Find friends,Instagram
+Find friends,Discord
+Find friends,LinkedIn
+Find friends,WeChat
+Find friends,WhatsApp
+Find friends,HealthHub
+Find friends,MySkillsFuture
+Find friends,Carousell
+Find friends,OneMap
+Video streaming,Discord
+Video streaming,WeChat
+Video streaming,Instagram
+Video streaming,Telegram
+Video streaming,SGSecure
+Video streaming,WhatsApp
+Video streaming,Reddit
+Video streaming,MySingtel
+Alert and Remind,MyTransport
+Alert and Remind,myResponder
+Alert and Remind,SGSecure
+Alert and Remind,myENV
+Alert and Remind,LinkedIn
+Backup sync messages,Telegram
+Backup sync messages,MySingtel
+Backup sync messages,WhatsApp
+Backup sync messages,SGSecure
+Backup sync messages,WeChat
+Backup sync messages,Instagram
+Backup sync messages,Slack
+Backup sync messages,LinkedIn
+Flashlight,QR & Barcode Scanner
+Interruption management,NLB Mobile
+Interruption management,MyTransport
+Interruption management,LifeSG
+Interruption management,uWave
+Interruption management,OpenVPN Connect
+Interruption management,MySingtel
+Interruption management,Reddit
+Location-based Customization,CustomsSG
+Location-based Customization,YQueue
+Location-based Customization,OneMap
+Location-based Customization,myENV
+Location-based Customization,Slack
+Location-based Customization,WeChat
+Location-based Customization,Dementia Friends
+Location-based Customization,MyTransport
+Location-based Customization,PoliceSG
+Location-based Customization,Discord
+Photo taking,QR & Barcode Scanner
+Photo taking,Telegram
+Photo taking,Instagram
+Photo taking,LinkedIn
+Photo taking,MySingtel
+Photo taking,SGSecure
+Photo taking,WeChat
+Photo taking,WhatsApp
+Photo taking,myENV
+Photo taking,Discord
+Game input controller,WeChat
+Game input controller,Discord
+Game input controller,Mcdonalds
+Game input controller,myENV
+Game input controller,Reddit
+Audio streaming,Discord
+Audio streaming,WeChat
+Call and SMS,WhatsApp
+Call and SMS,WeChat
+Call and SMS,myENV
+Call and SMS,MySingtel
+Call and SMS,SingPass Mobile
+Call and SMS,Slack
+Call and SMS,Discord
+Call and SMS,Reddit
+Document scanning,QR & Barcode Scanner
+Document scanning,SGWorkPass
+Document scanning,eApptICA
+Document scanning,WhatsApp
+Document scanning,Telegram
+Document scanning,TraceTogether
+Document scanning,Slack
+Document scanning,ActiveSG
+Document scanning,Healthy 365
+Document scanning,WeChat
+Network optimization,LinkedIn
+Network optimization,OpenVPN Connect
+Network optimization,Dementia Friends
+Network optimization,SG BusLeh
+Network optimization,Telegram
+Speaker display activation,myResponder
+Speaker display activation,MySingtel
+Speaker display activation,LifeSG
+Speaker display activation,ActiveSG
+Speaker display activation,FakeGPS Route
+Speaker display activation,Healthy 365
+Speaker display activation,SG BusLeh
+Speaker display activation,Reddit
+Speaker display activation,Telegram
+Music,MySingtel
+Music,Discord
+Music,Reddit
+Nearby Search,OneMap
+Nearby Search,ActiveSG
+Nearby Search,myResponder
+Nearby Search,MyTransport
+Nearby Search,LinkedIn
+Nearby Search,Dementia Friends
+Nearby Search,FairPrice
+Nearby Search,Carousell
+Nearby Search,LifeSG
+Nearby Search,SG BusLeh
+Task management,LifeSG
+Task management,NLB Mobile
+Task management,MyTransport
+Task management,Telegram
+Task management,uWave
+Task management,OpenVPN Connect
+Task management,MySingtel
+Task management,Reddit
+Context prediction,SG BusLeh
+Third-party login,NLB Mobile
+Third-party login,WeChat
+Third-party login,SingPass Mobile
+Third-party login,Telegram
+Third-party login,Healthy 365
+Geotagging,FakeGPS Route
+Code scanning,QR & Barcode Scanner
+Code scanning,SGWorkPass
+Code scanning,Authenticator
+Code scanning,ActiveSG
+Code scanning,Healthy 365
+Code scanning,WeChat
+Code scanning,SingPass Mobile
+Code scanning,OneMap
+Code scanning,Telegram
+Code scanning,SG BusLeh
+Geosocial Networking,LinkedIn
+Geosocial Networking,OpenVPN Connect
+Geosocial Networking,Dementia Friends
+Geosocial Networking,Telegram
+App data persistent storage,SingPass Mobile
+App data persistent storage,SingStat
+App data persistent storage,MySingtel
+App data persistent storage,TraceTogether
+App data persistent storage,Telegram
+App data persistent storage,Authenticator
+App data persistent storage,WeChat
+App data persistent storage,WhatsApp
+App data persistent storage,SG BusLeh
+App data persistent storage,OpenVPN Connect
+Contact management,TraceTogether
+Contact management,LifeSG
+Contact management,WhatsApp
+Contact management,LinkedIn
+Contact management,NLB Mobile
+Contact management,QR & Barcode Scanner
+Contact management,Quora
+Contact management,MyTransport
+Contact management,uWave
+Contact management,OpenVPN Connect
+Data collection for ad,eApptICA
+Data collection for ad,SingStat
+Data collection for ad,MySingtel
+Data collection for ad,Telegram
+Data collection for ad,OpenVPN Connect
+Data collection for ad,TraceTogether
+Data collection for ad,Authenticator
+Data collection for ad,SG BusLeh
+Data collection for ad,SingPass Mobile
+Data collection for ad,WhatsApp
+Block messages,WhatsApp
+Block messages,SGSecure
+Block messages,Telegram
+Block messages,WeChat
+Block messages,OpenVPN Connect
+Block messages,Instagram
+Block messages,Slack
+Block messages,MySingtel
+Block messages,LinkedIn
+Fake calls and SMS,WhatsApp
+Fake calls and SMS,FakeGPS Route
+Fake calls and SMS,SingPass Mobile
+Fake calls and SMS,WeChat
+Fake calls and SMS,Reddit
+Fake calls and SMS,myENV
+Fake calls and SMS,MySingtel
+Fake calls and SMS,Slack
+Fake calls and SMS,Discord
+Manage downloaded files,OpenVPN Connect
+Manage downloaded files,Telegram
+Manage downloaded files,LifeSG
+Manage downloaded files,myENV
+Manage downloaded files,NLB Mobile
+Manage downloaded files,MySingtel
+Manage downloaded files,Reddit
+Manage downloaded files,SingPass Mobile
+Manage downloaded files,MyTransport
+Manage downloaded files,YQueue
+Contact-based customization,CustomsSG
+Contact-based customization,WhatsApp
+Contact-based customization,TraceTogether
+Contact-based customization,YQueue
+Contact-based customization,LinkedIn
+Contact-based customization,Slack
+Contact-based customization,MyTransport
+Contact-based customization,OneMap
+Contact-based customization,QR & Barcode Scanner
+Contact-based customization,Quora
+Voice Authentication,Authenticator
+Voice Authentication,Discord
+Voice Authentication,WeChat
+Voice Authentication,WhatsApp
+Schedule,HealthHub
+Step-counter,Authenticator
+Step-counter,SingPass Mobile
+Step-counter,MySingtel
+Step-counter,Healthy 365
+Step-counter,LinkedIn
+Step-counter,ActiveSG
+Map Navigation Compass,OneMap
+Map Navigation Compass,FakeGPS Route
+Map Navigation Compass,uWave
+Map Navigation Compass,SGBioAtlas
+Map Navigation Compass,SG BusLeh
+Acoustic communication,Slack
+Acoustic communication,Discord
+Acoustic communication,LinkedIn
+Acoustic communication,Reddit
+Acoustic communication,Instagram
+Acoustic communication,Dementia Friends
+Acoustic communication,TraceTogether
+Acoustic communication,SGBioAtlas
+Acoustic communication,Telegram
+Acoustic communication,Carousell
+Record,HealthHub
+Record,SGBioAtlas
+Record,WeChat
+Extract message content,WeChat
+Extract message content,Telegram
+Extract message content,WhatsApp
+Extract message content,SGSecure
+Extract message content,PoliceSG
+Extract message content,Quora
+Extract message content,Reddit
+Extract message content,Instagram
+Extract message content,Slack
+Extract message content,MySingtel
+Audio recording,HealthHub
+Audio recording,SGBioAtlas
+Audio recording,WeChat
+Email,FakeGPS Route
+Email,OneMap
+Email,eApptICA
+Email,QR & Barcode Scanner
+Email,SingPass Mobile
+Email,WhatsApp
+Email,Carousell
+Location-based game,WeChat
+Location-based game,Mcdonalds
+Location-based game,Discord
+Location-based game,OneMap
+Location-based game,myENV
+Location-based game,Dementia Friends
+Location-based game,MyTransport
+Location-based game,Reddit
+Location-based game,PoliceSG
+Location-based game,FakeGPS Route
+Data collection for analytics,eApptICA
+Data collection for analytics,SingStat
+Data collection for analytics,MySingtel
+Data collection for analytics,TraceTogether
+Data collection for analytics,Telegram
+Data collection for analytics,Authenticator
+Data collection for analytics,SingPass Mobile
+Data collection for analytics,WhatsApp
+Data collection for analytics,OpenVPN Connect
+Data collection for analytics,SG BusLeh
+Cross-app communication,LinkedIn
+Cross-app communication,Slack
+Cross-app communication,TraceTogether
+Cross-app communication,Reddit
+Cross-app communication,Discord
+Cross-app communication,SGBioAtlas
+Cross-app communication,Dementia Friends
+Cross-app communication,Instagram
+Cross-app communication,Telegram
+Cross-app communication,SGWorkPass
+Map and Navigation,OneMap
+Map and Navigation,FakeGPS Route
+Map and Navigation,uWave
+Map and Navigation,SGBioAtlas
+Map and Navigation,SG BusLeh
+Text recognition,Discord
+Text recognition,QR & Barcode Scanner
+Text recognition,WeChat
+Access photo album,Instagram
+Access photo album,myENV
+Access photo album,Telegram
+Access photo album,WhatsApp
+Access photo album,SGSecure
+Access photo album,Discord
+Access photo album,WeChat
+Access photo album,LifeSG
+Access photo album,Dementia Friends
+Access photo album,MySkillsFuture
+Send messages,WhatsApp
+Send messages,SGSecure
+Send messages,Telegram
+Send messages,CustomsSG
+Send messages,WeChat
+Send messages,LinkedIn
+Send messages,Instagram
+Send messages,Slack
+Send messages,MySingtel
+Query Transportation Information,MyTransport
+Query Transportation Information,OneMap
+Query Transportation Information,SGBioAtlas
+Query Transportation Information,PoliceSG
+Query Transportation Information,SG BusLeh
+Query Transportation Information,myENV
+Query Transportation Information,Dementia Friends
+Query Transportation Information,SingStat
+Query Transportation Information,SGSecure
+Query Transportation Information,SGWorkPass
+Organize messages,Slack
+Organize messages,Discord
+Organize messages,WhatsApp
+Organize messages,SGSecure
+Organize messages,Telegram
+Organize messages,OpenVPN Connect
+Organize messages,WeChat
+Organize messages,Instagram
+Organize messages,MySingtel
+Organize messages,LinkedIn

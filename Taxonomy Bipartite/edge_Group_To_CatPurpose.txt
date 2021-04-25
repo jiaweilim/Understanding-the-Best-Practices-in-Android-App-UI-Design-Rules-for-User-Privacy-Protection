@@ -1,0 +1,60 @@
+AFFECTS_BATTERY,Battery-based event trigger
+AFFECTS_BATTERY,Power management
+AFFECTS_BATTERY,Data collection for analytics
+NETWORK,Network switch notification
+NETWORK,Network optimization
+NETWORK,Geo localization
+NETWORK,Data collection for ad
+NETWORK,Data collection for analytics
+SOCIAL_INFO,Backup and Synchronization
+SOCIAL_INFO,Contact management
+SOCIAL_INFO,Blacklist
+SOCIAL_INFO,Call and SMS
+SOCIAL_INFO,Contact-based customization
+SOCIAL_INFO,Email
+SOCIAL_INFO,Find friends
+SOCIAL_INFO,Record
+SOCIAL_INFO,Fake calls and SMS
+PERSONAL_INFO,Context prediction
+PERSONAL_INFO,Schedule
+PERSONAL_INFO,Alarm
+MESSAGES,Send messages
+MESSAGES,Organize messages
+MESSAGES,Extract message content
+MESSAGES,Block messages
+MESSAGES,Schedule messages
+MESSAGES,Backup sync messages
+STORAGE,Access photo album
+STORAGE,Manage downloaded files
+STORAGE,App data persistent storage
+ACCOUNTS,Third-party login
+ACCOUNTS,Data collection for analytics
+ACCOUNTS,Data collection for ad
+CAMERA,Flashlight
+CAMERA,Video streaming
+CAMERA,Code scanning
+CAMERA,Document scanning
+CAMERA,Augment reality
+CAMERA,Text recognition
+CAMERA,Photo taking
+LOCATION,Nearby Search
+LOCATION,Location-based Customization
+LOCATION,Query Transportation Information
+LOCATION,Recording
+LOCATION,Map and Navigation
+LOCATION,Geosocial Networking
+LOCATION,Geotagging
+LOCATION,Location Spoofing
+LOCATION,Alert and Remind
+LOCATION,Location-based game
+LOCATION,Reverse geocoding
+LOCATION,Data collection for analytics
+LOCATION,Data collection for ad
+MICROPHONE,Voice Authentication
+MICROPHONE,Audio streaming
+MICROPHONE,Voice control
+MICROPHONE,Speech recognition
+MICROPHONE,Audio recording
+MICROPHONE,Acoustic event detection
+MICROPHONE,Acoustic communication
+MICROPHONE,Music

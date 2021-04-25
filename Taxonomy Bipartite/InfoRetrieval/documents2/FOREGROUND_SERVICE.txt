@@ -1,0 +1,1 @@
+Allows a regular application to use Service.startForeground.

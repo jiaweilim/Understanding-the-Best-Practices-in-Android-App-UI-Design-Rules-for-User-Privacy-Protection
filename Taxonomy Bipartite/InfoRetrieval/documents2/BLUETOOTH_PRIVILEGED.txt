@@ -1,0 +1,1 @@
+Allows applications to pair bluetooth devices without user interaction, and to allow or disallow phonebook access or message access.

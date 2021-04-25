@@ -1,0 +1,1 @@
+This constant was deprecated in API level 16. The API that used this permission has been removed.

@@ -1,0 +1,1 @@
+Allows an application (Phone) to send a request to other applications to handle the respond-via-message action during incoming calls.
